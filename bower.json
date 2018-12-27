@@ -20,7 +20,7 @@
     "tests"
   ],
   "devDependencies": {
-    "seajs": "^3.0.0",
+    "seajs": "^2.3.0",
     "bootbox.js": "bootbox#^4.4.0"
   },
   "dependencies": {
